@@ -30,6 +30,22 @@ h1, h2, h3 {
   margin: 0 auto;
 }
 
+.vis-holder2 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center; 
+  margin: 0 auto;
+}
+
+.vis-holder3 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center; 
+  margin: 0 auto;
+}
+
 /* The line chart will take the left half of the screen */
 .linechart-holder {
   flex: 0 0 50%;
@@ -67,6 +83,11 @@ circle.selected {
 /* Style for selected marks (table rows) */
 tr.selected {
   background-color: pink;
+}
+
+rect.selected {
+	stroke: black;
+	stroke-width: 3;
 }
 
 /* Pretty table layout */

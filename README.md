@@ -2,7 +2,7 @@
 
 This repository is your starting point for hw-06. Assignment details and instructions are below. 
 
-Link to your GitHub pages website: `[insert your *clickable* hyperlink here]`
+Link to your GitHub pages website: https://github.com/DS4200-Fall21-Sec02/hw-06-d3-brushing-and-linking-hw-06-d3-brushing-linking-wt-rw-lp
 
 # Aim of the assignment
 
